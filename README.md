@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🔭 Astrophysics, Climate Sciences, AI
+🔭 Astrophysics, Atmospheric & Climate Sciences, AI
 
 😄 [Google Scholar](https://scholar.google.com/citations?user=vUUxySYAAAAJ)
 
