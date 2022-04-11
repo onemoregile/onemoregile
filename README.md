@@ -6,7 +6,7 @@
 
 ⚡ Currently @ Institute for Artificial Intelligence (IDSIA), USI, Lugano
 
-🌱 I’m currently working on [PiCobalt](picobalt.com)
+🌱 I’m currently working on [PiCobalt](https://www.picobalt.com/)
 
-📫 [Email me!](onemoregile AT pm DOT me)  
+📫 [Email me!](onemoregile-AT-pm.me)  
 
